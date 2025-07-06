@@ -132,5 +132,3 @@ I'm Ashley Nelms, a Senior Full-Stack Engineer with 7+ years of experience in fu
 - 🦎 **Fun fact:** As an ex-alligator wrestler I work well under pressure 
 - 💬 Talk to me about gardening 🌻, Memes, Anime, my ducks 🦆, cozy games 🎮, metal concerts 🤘
 - ☕ STōK cold brew is my bestfriend
-
-
