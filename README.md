@@ -118,5 +118,19 @@ Here are some ideas to get you started:
   &nbsp;&nbsp;
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
   &nbsp;&nbsp;
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354513/vercel-icon.svg" alt="vercel" width="40" height="40"/></a>
+  &nbsp;&nbsp;
   <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/5/56/Xcode_14_icon.png" alt="xcode" width="40" height="40"/></a>
 </div>
+
+<h2 align="left">👨🏻‍💻 About Me:</h2>
+
+I'm Ashley Nelms, a Senior Full-Stack Engineer with 7+ years of experience in full-stack development using technologies like React, Rails, TypeScript, and Node. Adept at collaborating cross-functionally to deliver scalable, high-quality applications (greenfield and legacy).
+
+- :house: I'm located at FL
+- :computer: I'm currently working as a Senior Full-Stack Engineer
+- 🦎 **Fun fact:** As an ex-alligator wrestler I work well under pressure 
+- 💬 Talk to me about gardening 🌻, Memes, Anime, my ducks 🦆, cozy games 🎮, metal concerts 🤘
+- ☕ STōK cold brew is my bestfriend
+
+
